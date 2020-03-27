@@ -1,0 +1,34 @@
+# Integrated Dev Env files
+.idea
+.DS_Store
+.vscode
+integration_tests
+
+# Logs
+*.log
+
+# Runtime data
+*.pid
+error-shots/
+cucumber-results/
+build
+
+# Grunt intermediate storage
+.grunt
+
+# Npm cache directory
+.npm
+
+# Dependency directories
+node_modules
+
+# Run-time test reports
+cucumber-results
+.tmp
+allure-report
+allure-results
+*.xml
+
+# Run-time screenshots
+*.png
+/.project
